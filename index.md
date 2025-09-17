@@ -1,5 +1,5 @@
-# Alessandro's artworks  
+# _Alessandro_'s artworks  
 
 ## Watercolours, Acrylics, Digital Painting
 
-### [paysage](20211208_145557.jpg) Digital Painting (made on krita) 
+### [paysage](20211208_145557.jpg) Digital Painting (made on **krita**) 
