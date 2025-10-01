@@ -2,8 +2,8 @@
 
 ## Watercolours, Acrylics, Digital Painting
 
-### 🎨 [Acryliques](acryliques.md)  
-### 💧 [Aquarelles](aquarelles.md)  
+### 🎨 [Acrylics](acrylics.md)  
+### 💧 [Watercolour](watercolour.md)  
 ### 🖥️ [Digital Painting](digital.md)  
 
 ---
