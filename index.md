@@ -6,14 +6,14 @@
 
 ## Watercolours · Acrylics · Digital Painting
 
----
+
 
 ### About
 
-Welcome to **Alessandro Gallery**, a personal collection of paintings exploring light, texture, and emotion.  
-My work moves between **traditional and digital mediums**, combining a taste for the classical with a modern sensibility.
+Welcome to **Alessandro Gallery**, a personal collection of paintings.  
+My work moves between **traditional and digital mediums**.
 
----
+
 
 ### Explore the Galleries
 
@@ -33,7 +33,7 @@ Digital Painting
 
 </div>
 
----
+
 
 ### Contact
 
