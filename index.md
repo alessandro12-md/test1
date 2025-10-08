@@ -1,49 +1,28 @@
-# _Alessandro_'s Gallery
+<!-- Alessandro Gallery - Page d'accueil -->
 
-## Watercolours, Acrylics, Digital Painting
+<div style="background-color:#f8f1e4; color:#3a2e1f; font-family:'Garamond', serif; padding:40px; text-align:center;">
 
-### 🎨 [Acrylics](acrylics.md)
+# 🎨 **Alessandro Gallery**
 
-[Retour à l'accueil](README.md)
+## _Watercolours • Acrylics • Digital Painting_
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+### 👋 À propos de moi
 
-<div style="display:inline-block; border:12px solid #d4af37; padding:8px; margin:20px; box-shadow:0 0 15px rgba(0,0,0,0.3); background-color:#fdf5e6;">
-  <a href="images/acrylic1.jpg" target="_blank">
-    <img src="images/acrylic1.jpg" alt="Acrylic1" style="max-width:300px; display:block;">
-  </a>
-  <p style="text-align:center; font-style:italic; font-family:'Garamond', serif;">Acrylic 1</p>
-</div>
+Je suis Alessandro, artiste passionné par les nuances de lumière et de matière.  
+J’explore différents médiums — **acryliques, aquarelles et peinture digitale** — pour exprimer des émotions, des paysages intérieurs et des rêveries visuelles.  
+Bienvenue dans mon univers artistique.
 
-<div style="display:inline-block; border:12px solid #d4af37; padding:8px; margin:20px; box-shadow:0 0 15px rgba(0,0,0,0.3); background-color:#fdf5e6;">
-  <a href="images/acrylic2.jpg" target="_blank">
-    <img src="images/acrylic2.jpg" alt="Acrylic 2" style="max-width:300px; display:block;">
-  </a>
-  <p style="text-align:center; font-style:italic; font-family:'Garamond', serif;">Acrylic 2</p>
-</div>
+### 🖼️ Explorer mes œuvres
 
-</div>
+<div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:30px;">
 
-### 💧 [Watercolour](watercolour.md)  
-### 🖥️ [Digital Painting](digital.md)  # Digital Painting - Alessandro Gallery
+<a href="acrylics.md" style="text-decoration:none; color:#3a2e1f; background-color:#fdf5e6; border:2px solid #d4af37; border-radius:10px; padding:15px 25px; font-size:18px; box-shadow:0 0 8px rgba(0,0,0,0.15);">
+🎨 Acrylics
+</a>
 
-[Retour à l'accueil](README.md)
+<a href="watercolours.md" style="text-decoration:none; color:#3a2e1f; background-color:#fdf5e6; border:2px solid #d4af37; border-radius:10px; padding:15px 25px; font-size:18px; box-shadow:0 0 8px rgba(0,0,0,0.15);">
+💧 Watercolours
+</a>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
-<div style="display:inline-block; border:12px solid #d4af37; padding:8px; margin:20px; box-shadow:0 0 15px rgba(0,0,0,0.3); background-color:#fdf5e6;">
-  <a href="images/digital1.jpg" target="_blank">
-    <img src="images/digital1.jpg" alt="20211204_154459.png" style="max-width:300px; display:block;">
-  </a>
-  <p style="text-align:center; font-style:italic; font-family:'Garamond', serif;">Digital Painting 1</p>
-</div>
-</div>
-
----
-
-### 📖 À propos  
-[Lire ma bio →](about.md)  
-
-### ✉️ Contact  
-[Me contacter →](contact.md)
-
+<a href="digital.md" style="text-decoration:none; color:#3a2e1f; background-color:#fdf5e6; border:2px solid #d4af37; border-radius:10px; padding:15px 25px; font-size:18px; box-shadow:0 0 8px rgba(0,0,0,0.15
 
