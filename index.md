@@ -2,17 +2,11 @@
 
 <div style="background-color:#f8f1e4; color:#3a2e1f; font-family:'Garamond', serif; padding:40px; text-align:center;">
 
-# 🎨 **Alessandro Gallery**
+#  **Alessandro Gallery**
 
 ## _Watercolours • Acrylics • Digital Painting_
 
-### 👋 À propos de moi
-
-Je suis Alessandro, artiste passionné par les nuances de lumière et de matière.  
-J’explore différents médiums — **acryliques, aquarelles et peinture digitale** — pour exprimer des émotions, des paysages intérieurs et des rêveries visuelles.  
-Bienvenue dans mon univers artistique.
-
-### 🖼️ Explorer mes œuvres
+### biography 
 
 <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:30px;">
 
