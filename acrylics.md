@@ -1,26 +1,18 @@
-# Acrylics — Alessandro Gallery
+# Acrylic Paintings
 
-[← Back to Home](README.md)
+A collection of my acrylic works — exploring depth, contrast, and atmosphere.
 
-<div style="background-color:#f8f1e4; color:#3b2f2f; font-family:'Garamond', serif; padding:40px; text-align:center;">
+---
 
-## Acrylic Paintings
+## Gallery
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+<!-- Example structure for each painting -->
+### Title of the Painting
+![Short description of your painting](path-to-your-image.jpg)
+*Medium: Acrylic on canvas, Year: YYYY*
 
-<div style="display:inline-block; border:10px solid #d4af37; padding:8px; margin:20px; box-shadow:0 0 15px rgba(0,0,0,0.2); background-color:#fff8e7;">
-  <a href="images/acrylic1.jpg" target="_blank">
-    <img src="images/acrylic1.jpg" alt="Acrylic Painting 1" style="max-width:300px; display:block;">
-  </a>
-  <p style="text-align:center; font-style:italic;">Morning Light</p>
-</div>
+<!-- Repeat for each artwork -->
 
-<div style="display:inline-block; border:10px solid #d4af37; padding:8px; margin:20px; box-shadow:0 0 15px rgba(0,0,0,0.2); background-color:#fff8e7;">
-  <a href="images/acrylic2.jpg" target="_blank">
-    <img src="images/acrylic2.jpg" alt="Acrylic Painting 2" style="max-width:300px; display:block;">
-  </a>
-  <p style="text-align:center; font-style:italic;">Coastal Storm</p>
-</div>
+---
 
-</div>
-</div>
+[← Back to Home](index.md)
