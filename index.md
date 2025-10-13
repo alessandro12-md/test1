@@ -2,20 +2,20 @@
 
 <div style="background-color:#f8f1e4; color:#3b2f2f; font-family:'Garamond', serif; padding:50px; text-align:center;">
 
-# Alessandro Gallery
+Alessandro Gallery
 
-## Watercolours · Acrylics · Digital Painting
+Watercolours · Acrylics · Digital Painting
 
 
 
-### About
+About
 
 Welcome to **Alessandro Gallery**, a personal collection of paintings.  
 My work moves between **traditional and digital mediums**.
 
 
 
-### Explore the Galleries
+Explore the Galleries
 
 <div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin-top:30px;">
 
