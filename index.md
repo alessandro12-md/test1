@@ -2,7 +2,7 @@
 
 <div style="background-color:#f8f1e4; color:#3b2f2f; font-family:'Garamond', serif; padding:50px; text-align:center;">
 
-Alessandro Gallery
+# Alessandro Gallery
 
 Watercolours · Acrylics · Digital Painting
 
