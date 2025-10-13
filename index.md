@@ -1,4 +1,4 @@
-# Alessandro Gallery
+
 
 Welcome to my online art gallery — a collection of my **Acrylics**, **Watercolours**, and **Digital Paintings**.
 
