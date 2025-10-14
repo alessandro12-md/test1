@@ -7,14 +7,14 @@ This page gathers some of my digital works.
 
 ## Gallery
 
-![Title of your painting](image-file-name.jpg)
-*Short description or date (optional)*
+![Beyond the clouds](20220408_140117.jpg)
+*December 4, 2021*
 
-![Title of your painting](image-file-name-2.jpg)
-*Short description or date (optional)*
+![The Land of Peace](20211208_145557.jpg)
+*December 8, 2021*
 
-![Title of your painting](image-file-name-3.jpg)
-*Short description or date (optional)*
+![Emerald](20211204_154459.png)
+*December 4, 2021*
 
 ---
 
