@@ -1,7 +1,5 @@
 
 
-# Alessandro Gallery
-
 Welcome to my website.  
 Here I share my *watercolours*, *acrylics*, and *digital paintings*.
 
