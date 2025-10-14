@@ -1,7 +1,9 @@
 
 
 Welcome!
+
 <br>
+
 My name is Alessandro. I created this website to share some of my paintings and drawings.
 I like exploring different mediums such as watercolour, acrylic, and digital painting, depending on what I want to express or experiment with.
 This gallery is simply a place to keep and share what I make.
