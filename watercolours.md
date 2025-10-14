@@ -21,8 +21,8 @@ This page gathers some of my recent works.
 
 <br>
 
-![Title of your painting](image-file-name-3.jpg)
-*Short description or date (optional)*
+![Italia](234245_0000.png)
+*Italia* - November 12, 2024
 
 <br>
 
