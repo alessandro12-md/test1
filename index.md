@@ -5,7 +5,7 @@ Here I share my *watercolours*, *acrylics*, and *digital paintings*.
 
 _______________________________________
 
-![Flower](FlowerSpikesCreamBackground.jpg)
+![Flower](Flower.jpg)
 
 <br><br>
 
