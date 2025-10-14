@@ -9,13 +9,13 @@ This page gathers some of my acrylic works.
 
 ## Gallery
 
-![Sunflowers](20251014_010626_0000.jpg)
+![](20251014_010626_0000.jpg)
 *Sunflowers* - May 19, 2025
 
-![Through the Storm](20251014_010946_0000.jpg)
+![](20251014_010946_0000.jpg)
 *Through the Storm* - July 13, 2025
 
-![Dakota](20251014_005705_0000.jpg)
+![](20251014_005705_0000.jpg)
 *Dakota* - August 14, 2025 
 
 ---
