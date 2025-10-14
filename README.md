@@ -1,5 +1,5 @@
-<div style="background-color:#f3d9b1; padding:40px; min-height:100vh; font-family:'Garamond', serif; color:#3b2f2f;">
-
+<div style="background-color:#f3e7c8; padding:40px; font-family:'Garamond', serif; color:#2c2c2c; line-height:1.6;">
+  
 # Alessandro Gallery
 
 </div>
