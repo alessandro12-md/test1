@@ -9,6 +9,8 @@ I like exploring different mediums such as watercolour, acrylic, and digital pai
 This gallery is simply a place to keep and share what I make.
 
 <br>
+---
+<br>
 
 ![Flower](Flower.jpg)
 
@@ -27,7 +29,6 @@ This gallery is simply a place to keep and share what I make.
 - [Digital Painting](digital.md)
 
 <br> 
-_______________________________________
 
 
 ---
