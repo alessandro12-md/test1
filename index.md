@@ -1,4 +1,4 @@
-<body style="background-color:#f8f3e7;">
+
 
 Welcome to my online art gallery — a collection of my **Acrylics**, **Watercolours**, and **Digital Paintings**.
 
@@ -27,5 +27,3 @@ You can reach me at [your.email@example.com](mailto:your.email@example.com)
 or visit my [GitHub profile](https://github.com/YourUsername).
 
 ---
-
-</body>
