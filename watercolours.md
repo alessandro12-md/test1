@@ -16,8 +16,8 @@ This page gathers some of my recent works.
 
 <br>
 
-![Title of your painting](image-file-name-2.jpg)
-*Short description or date (optional)*
+![Returning Home](231222_0000.png)
+*Returning Home* - June 30, 2024
 
 <br>
 
