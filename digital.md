@@ -7,13 +7,13 @@ This page gathers some of my digital works.
 
 ## Gallery
 
-!(20220408_140117.jpg)
+![Beyond the clouds](20220408_140117.jpg)
 *Beyond the clouds* - December 4, 2021
 
-!(20211208_145557.jpg)
+![The Land of Peace](20211208_145557.jpg)
 *The Land of Peace* - December 8, 2021
 
-!(20211204_154459.png)
+![Emerald](20211204_154459.png)
 *Emerald* - December 4, 2021
 
 ---
