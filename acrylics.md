@@ -26,6 +26,7 @@ This page gathers some of my acrylic works.
 ![Dakota](1000006504.jpg)
 *Dakota* - August 14, 2025 
 
+<br>
 ---
 
 ## About this medium
