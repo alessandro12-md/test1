@@ -10,7 +10,7 @@ _______________________________________
 
 <br><br>
 
-## Explore
+## Collection
 
 - [Acrylics](acrylics.md)
 
@@ -30,5 +30,5 @@ _______________________________________
 <br><br><br><br><br>
 ## Contact
 
-You can reach me at: [your.email@example.com](mailto:your.email@example.com)
+You can reach me at: [alessandro10md@gmail.com](alessandro10md@gmail.com)
 _
