@@ -7,7 +7,7 @@ When the water evaporates, the polymer forms a thin, flexible film that holds th
 
 This page gathers some of my acrylic works.
 
----
+-----
 
 <br>
 
@@ -27,18 +27,18 @@ This page gathers some of my acrylic works.
 *Dakota* - August 14, 2025 
 
 <br>
----
+-----
 
 ## About this medium
 
-What I appreciate most about acrylic paint is its **fast drying time** — it allows me to work in layers and experiment freely with colours and textures.  
+What I appreciate most about acrylic paint is its **fast drying time**, it allows me to work in layers and experiment freely with colours and textures.  
 Acrylics make it possible to move quickly between ideas and to build up depth.
 
 <br>
 
 Some of the painters who inspire me most are [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh), [Claude Monet](https://en.wikipedia.org/wiki/Claude_Monet), and [Théodore Gudin](https://en.wikipedia.org/wiki/Th%C3%A9odore_Gudin).
 
----
+-----
 
 <br><br>
 
