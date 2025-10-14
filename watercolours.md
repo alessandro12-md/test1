@@ -11,8 +11,8 @@ This page gathers some of my recent works.
 
 <br>
 
-![Title of your painting](image-file-name.jpg)
-*Short description or date (optional)*
+![Hope](225508_0000.png)
+*Hope* - August 22, 2024
 
 <br>
 
