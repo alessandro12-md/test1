@@ -1,4 +1,4 @@
-# Acrylics
+
 
 Acrylic paint is made from three main elements: pigment, water, and an acrylic polymer that acts as a binder.
 When the water evaporates, the polymer forms a thin, flexible film that holds the colour in place.  
