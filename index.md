@@ -5,8 +5,10 @@ Here I share my *watercolours*, *acrylics*, and *digital paintings*.
 
 _______________________________________
 
----
-
+--- 
+<p align="center">
+  <img src="images/Flower Spikes Cream Background.jpg" alt="My artwork" width="300">
+</p>
 
 <br><br>
 
