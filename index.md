@@ -1,6 +1,6 @@
 
 
-## Welcome to my website.  
+Welcome to my website.  
 Here I share my *watercolours*, *acrylics*, and *digital paintings*.
 
 
